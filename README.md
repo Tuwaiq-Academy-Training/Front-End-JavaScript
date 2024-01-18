@@ -52,12 +52,12 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 
 | Week | Day | Lesson | Lap | HomeWork |
 |:----:|:---:|:------:|:---:|:--------:|
-| Week1| 1   |[Intro-To-World-Wide-Web](https://github.com/Tuwaiq-Academy-Training/Intro-To-World-Wide-Web/blob/main/README.md)|[Intro-To-World-Wide-Web-lab](https://github.com/Tuwaiq-Academy-Training/Intro-To-World-Wide-Web-lab/blob/main/README.md)|[Intro-To-World-Wide-Web-hw](https://github.com/Tuwaiq-Academy-Training/Intro-To-World-Wide-Web/blob/main/README.md)
-| Week1| 2  |[HTML-Lesson](https://github.com/Tuwaiq-Academy-Training/HTML-Lesson/blob/main/README.md)|[HTML-Lab](https://stone-horn-a78.notion.site/Lab1-a8ea2003666747f3affde1ca4652e412)|[HTML-HW]()
+| Week1| 1   |[Intro-To-World-Wide-Web](https://github.com/Tuwaiq-Academy-Training/Intro-To-World-Wide-Web/blob/main/README.md)|[Intro-To-World-Wide-Web-lab]()|[Intro-To-World-Wide-Web-hw]()
+| Week1| 2  |[HTML-Lesson](https://github.com/Tuwaiq-Academy-Training/HTML-Lesson/blob/main/README.md)|[HTML-Lab]()|[HTML-HW]()
 | Week1| 3  |[Git&GitHub-Lesson](https://stone-horn-a78.notion.site/Git-0c7db9b9c2ae4672971ea0bee5502cf0)|[Git&GitHub-Lab](https://stone-horn-a78.notion.site/git-html-Lab-0af8f37742184d9fb9bd210d00899f34)|[Git&GitHub-HW]()
-| Week1| 4  |[Git&GitHub-Lesson](https://stone-horn-a78.notion.site/Branches-7fd645417b57431bb05a6c93ed24c040?pvs=4)|[Git&GitHub-Lab]()|[Git&GitHub-HW](https://stone-horn-a78.notion.site/HW1-b89811b403bd411b8b8867f61a474b71?pvs=4)
-| Week1| 5  |[intro-to-UI&UX-Lesson](https://stone-horn-a78.notion.site/Intro-to-UI-UX-1487885eab424dd5b8373af8f35fdeb3?pvs=4)|[intro-to-UI&UX-Lap]()|[intro-to-UI&UX-HW]()
-| Week2| 1  |[UX-Lesson]()|[UX-Lap]()|[UX-HW](https://docs.google.com/document/d/1ShiQqHb4qnykDqn2EDe6-qPG38bgbAdhkALB7VvFE9s/edit?usp=sharing)
+| Week1| 4  |[UX-Lesson](https://stone-horn-a78.notion.site/Intro-to-UI-UX-1487885eab424dd5b8373af8f35fdeb3?pvs=4)|[UX-Lab]()|[intro-to-UX-HW]()
+| Week1| 5  |[UI-Lesson](https://stone-horn-a78.notion.site/Intro-to-UI-UX-1487885eab424dd5b8373af8f35fdeb3?pvs=4)|[UI-Lap]()|[UI-HW]()
+| Week2| 1  |[UX-Lesson]()|[UX-Lap]()|[UX-HW]()
 | Week2| 2  |[UI-and-Figma-Lesson](https://github.com/Tuwaiq-Academy-Training/Figma-Lesson/blob/main/README.md)|[UI-and-Figma-Lab]()|[UI-and-Figma-HW](https://stone-horn-a78.notion.site/Figma-HW-a811b1313a4047388a8d1b07ba19de87)
 | Week2| 3   |[Intro-To-CSS-Lesson](https://github.com/Tuwaiq-Academy-Training/CSS-Lesson/blob/main/README.md)|[Intro-To-CSS-Lab](https://stone-horn-a78.notion.site/CSS-Lab-78639bfd9ef841e39c8293e4c49ca373)|[Intro-To-CSS-HW](https://stone-horn-a78.notion.site/CSS-HW-fa1910ffc5064c61bad4c2e03e7390ed)
 | Week2| 4  |[CSS-Lesson]()|[CSS-Lab](https://stone-horn-a78.notion.site/Css-Lab-026c9d6f5ede4e4391355bc0c910b416?pvs=4)|[CSS-HW](https://stone-horn-a78.notion.site/CSS-HW-99e50b5bf4a94a96afa68b498eeef4c1)
