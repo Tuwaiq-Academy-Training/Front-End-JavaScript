@@ -61,7 +61,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week2| 1  |[Intro-To-World-Wide-Web]()|[Intro-To-World-Wide-Web-lab]()|[Intro-To-World-Wide-Web-hw]()
 | Week2| 2  |[intro-to-UI&UX-Lesson]()|[intro-to-UI&UX-Lap]()|[intro-to-UI&UX-HW]()
 | Week2| 3  |[UX-Lesson]()|[UX-Lap]()|[UX-HW](https://docs.google.com/document/d/1ShiQqHb4qnykDqn2EDe6-qPG38bgbAdhkALB7VvFE9s/edit?usp=sharing)
-| Week2| 4  |[Design-thinking-Lesson]()|[Design-thinking-Lab]()|[Design-thinking-HW]()
+| Week2| 4  |[UI-and-Figma-Lesson]()|[UI-and-Figma-Lab]()|[UI-and-Figma-HW]()
 | Week2| 5  |[UI-and-Figma-Lesson]()|[UI-and-Figma-Lab]()|[UI-and-Figma-HW]()
 | Week3| 1  |[HTML-Lesson]()|[HTML-Lab]()|[HTML-HW]()
 | Week3| 2  |[Git&GitHub-Lesson]()|[Git&GitHub-Lab]()|[Git&GitHub-HW]()
