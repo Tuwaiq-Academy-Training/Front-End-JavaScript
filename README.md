@@ -6,8 +6,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 |  | Days | Time |
 | --- | ------------- | ------------- |
 | Class | Sun - Thurs  | 4pm - 9pm  |
-##discord
-(https://discord.tuwaiqadmin.com/invite/clvf6gdpp00npo43oniyigdsp)
+
 
 ## Unit 1 \(Web Development Essentials \)
 
@@ -50,6 +49,9 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 * Ask questions.
 * Be supportive.
 * Talk to us
+* 
+##discord
+(https://discord.tuwaiqadmin.com/invite/clvf6gdpp00npo43oniyigdsp)
 
 | Week | Day | Lesson | Lap | HomeWork |
 |:----:|:---:|:------:|:---:|:--------:|
