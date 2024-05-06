@@ -61,7 +61,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week1| 4  |[Design-thinking-Lesson]()|[Design-thinking-Lab]()|[Design-thinking-HW]()
 | Week1| 5  |[Design-thinking-Lesson]()|[Design-thinking-Lab]()|[Design-thinking-HW]()
 | Week2| 1  |[intro-to-UI&UX-Lesson](https://stone-horn-a78.notion.site/Intro-to-UI-UX-1487885eab424dd5b8373af8f35fdeb3?pvs=4)|[intro-to-UI&UX-Lesson-lab]()|[intro-to-UI&UX-Lesson-HW](https://stone-horn-a78.notion.site/UX-HW-01df7a226027465183b39c4737658688?pvs=4)
-| Week2| 2  |[UX-Lesson](https://stone-horn-a78.notion.site/Research-bb48340f244b4e98bb82caea76208853?pvs=4)|[UX-Lap]()|[UX-HW]()
+| Week2| 2  |[UX-Lesson](https://stone-horn-a78.notion.site/Research-bb48340f244b4e98bb82caea76208853?pvs=4)|[UX-Lap](https://olivine-wool-1ce.notion.site/UX-Lab-fd9277107cb1493b830765d98c56b5bb?pvs=4)|[UX-HW]()
 | Week2| 3  |[UI-and-Figma-Lesson]()|[UI-and-Figma-Lab]()|[UI-and-Figma-Lesson-HW]()
 | Week2| 4  |[UI-and-Figma-Lesson]()|[UI-and-Figma-Lab]()|[UI-and-Figma-HW]()
 | Week2| 5  |[Mini-Project]()|[Mini-Project]()|[Mini-Project]()
