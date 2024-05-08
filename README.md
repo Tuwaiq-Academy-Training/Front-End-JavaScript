@@ -63,7 +63,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week2| 1  |[intro-to-UI&UX-Lesson](https://stone-horn-a78.notion.site/Intro-to-UI-UX-1487885eab424dd5b8373af8f35fdeb3?pvs=4)|[intro-to-UI&UX-Lesson-lab]()|[intro-to-UI&UX-Lesson-HW](https://stone-horn-a78.notion.site/UX-HW-01df7a226027465183b39c4737658688?pvs=4)
 | Week2| 2  |[UX-Lesson](https://stone-horn-a78.notion.site/Research-bb48340f244b4e98bb82caea76208853?pvs=4)|[UX-Lap](https://olivine-wool-1ce.notion.site/UX-Lab-fd9277107cb1493b830765d98c56b5bb?pvs=4)|[UX-HW](https://stone-horn-a78.notion.site/UX-HW2-87a642b3fbc242b6b47e4e34d2290614?pvs=4)
 | Week2| 3  |[UI-and-Figma-Lesson]()|[UI-and-Figma-Lab](https://olivine-wool-1ce.notion.site/UI-Lab-f451a74ac1c34426aa546dfb0999eb3b?pvs=4)|[UI-and-Figma-Lesson-HW](https://stone-horn-a78.notion.site/Figma-HW1-21bc03dca1fa41598d2c690d85f7b1b2?pvs=4)
-| Week2| 4  |[UI-and-Figma-Lesson]()|[UI-and-Figma-Lab]()|[UI-and-Figma-HW]()
+| Week2| 4  |[UI-and-Figma-Lesson]()|[UI-and-Figma-Lab1](https://olivine-wool-1ce.notion.site/Figma-Lab1-023550e4ef3a486490e4770359b0b635)|[UI-and-Figma-HW]()
 | Week2| 5  |[Mini-Project]()|[Mini-Project]()|[Mini-Project]()
 | Week3| 1  |[HTML-Lesson]()|[HTML-Lab]()|[HTML-HW]()
 | Week3| 2  |[Git&GitHub-Lesson]()|[Git&GitHub-Lab]()|[Git&GitHub-HW]()
