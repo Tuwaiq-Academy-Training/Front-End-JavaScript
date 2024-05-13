@@ -66,7 +66,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week2| 4  |[UI-and-Figma-Lesson](https://github.com/Tuwaiq-Academy-Training/Figma-Lesson/blob/main/README.md)|[UI-and-Figma-Lab1](https://olivine-wool-1ce.notion.site/Figma-Lab1-023550e4ef3a486490e4770359b0b635)|[UI-and-Figma-HW](https://stone-horn-a78.notion.site/Figma-HW-a811b1313a4047388a8d1b07ba19de87?pvs=4)
 | Week2| 5  |[Mini-Project]()|[Figma-Lab](https://olivine-wool-1ce.notion.site/Figma-Lab2-90cf8bc7ae6f4d9aa2be5a67c8906d9d?pvs=4)|[Mini-Project](https://stone-horn-a78.notion.site/Research-Plan-9e4d094f6c1a42b5805f5d8efdc4d7b0?pvs=4)
 | Week3| 1  |[HTML-Lesson](https://github.com/Tuwaiq-Academy-Training/HTML-Lesson/blob/main/README.md)|[Lab1](https://olivine-wool-1ce.notion.site/Lab1-823903b1fbd742018c9770c341212259?pvs=4)-[Lab2](https://stone-horn-a78.notion.site/Lab2-17d12f2e8eb342f0a7d4ce76fe6f3012?pvs=4)|[HTML-HW]()
-| Week3| 2  |[Git&GitHub-Lesson]()|[Git&GitHub-Lab]()|[Git&GitHub-HW]()
+| Week3| 2  |[Git&GitHub-Lesson](https://stone-horn-a78.notion.site/Git-0c7db9b9c2ae4672971ea0bee5502cf0?pvs=4)|[Git&GitHub-Lab]()|[Git&GitHub-HW]()
 | Week3| 3  |[Intro-To-CSS-Lesson]()|[Intro-To-CSS-Lab]()|[Intro-To-CSS-HW]()
 | Week3| 4  |[Css-Flexbox-Lesson]()|[Css-Flexbox-Lab]()|[Css-Flexbox-HW]()
 | Week3| 5  |[Css-Grid-Lesson]()|[Css-Grid-Lab]()|[Css-Grid-HW]()
