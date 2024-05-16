@@ -69,7 +69,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week3| 2  |[Git&GitHub-Lesson](https://stone-horn-a78.notion.site/Git-0c7db9b9c2ae4672971ea0bee5502cf0?pvs=4)|[Git&GitHub-Lab1](https://stone-horn-a78.notion.site/git-html-Lab-0af8f37742184d9fb9bd210d00899f34?pvs=4)-[Git&GitHub-Lab2](https://olivine-wool-1ce.notion.site/git-html-Lab2-2d0b6be437b843759fcb0b93966da302?pvs=4)|[Git&GitHub-HW]()
 | Week3| 3  |[Git&GitHub-Lesson](https://stone-horn-a78.notion.site/Branches-7fd645417b57431bb05a6c93ed24c040?pvs=4)|[Git&GitHub-Lab]()|[Git&GitHub-HW](https://stone-horn-a78.notion.site/GitHub-HW-b89811b403bd411b8b8867f61a474b71?pvs=4)
 | Week3| 4  |[Intro-To-CSS-Lesson](https://github.com/Tuwaiq-Academy-Training/CSS-Lesson/blob/main/README.md)|[CSS-Lab1](https://stone-horn-a78.notion.site/CSS-Lab-78639bfd9ef841e39c8293e4c49ca373)-[CSS-Lab2](https://stone-horn-a78.notion.site/Css-Lab-026c9d6f5ede4e4391355bc0c910b416)|[Intro-To-CSS-HW](https://stone-horn-a78.notion.site/CSS-HW-fa1910ffc5064c61bad4c2e03e7390ed)
-| Week3| 5  |[Css-Flexbox-Lesson](https://css-tricks.com/snippets/css/a-guide-to-flexbox)|[Css-Flexbox-Lab]()|[Css-Flexbox-HW]()
+| Week3| 5  |[Css-Flexbox-Lesson](https://css-tricks.com/snippets/css/a-guide-to-flexbox)|[Css-Flexbox-Lab](https://www.notion.so/Flex-box-Lab-378b08c6d1cf4095a1239d61b00a085e)|[Css-Flexbox-HW]()
 | Week4| 1  |[Css-Grid-Lesson]()|[Css-Grid-Lab]()|[Css-Grid-HW]()
 | Week4| 2  |[Bootstrap-Lesson]()|[Bootstrap-Lab]()|[Bootstrap-HW]()
 | Week4| 3  |[Intro-To-JavaScript-Lesson]()|[Intro-To-JavaScript-Lab]()|[Intro-To-JavaScript-HW]()
