@@ -82,7 +82,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week5| 5   |[Project]()|[Project]()|[Project]()
 | Week6| 1   |[Job-Day]()|[Job-Day]()|[Job-Day]()
 | Week6| 2   |[Job-Day]()|[Job-Day]()|[Job-Day]()
-| Week6| 3   |[Intro-To-React-Lesson]()|[Intro-To-React-Lab]()|[Intro-To-React-HW]()
+| Week6| 3   |[Presentation]()|[Presentation]()|[Presentation]()
 | Week6| 4   |[JavaScript-Exam]()|[JavaScript-Exam]()|[JavaScript-Exam]()
 | Week6| 5   |[Intro-To-React-Lesson]()|[Intro-To-React-Lab]()|[Intro-To-React-HW]()
 | Week7| 1    |[React-Props-Lesson]()|[React-Lab]()|[React-HW]() 
