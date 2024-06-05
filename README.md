@@ -83,7 +83,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week6| 1   |[Job-Day]()|[Job-Day]()|[Job-Day]()
 | Week6| 2   |[Job-Day]()|[Job-Day]()|[Job-Day]()
 | Week6| 3   |[Presentation]()|[Presentation]()|[Presentation]()
-| Week6| 4   |[JavaScript-Exam]()|[JavaScript-Exam]()|[JavaScript-Exam]()
+| Week6| 4   |[JavaScript-Exam](https://www.dropbox.com/scl/fi/nduwhpcxfe80sogea9tvn/JavaScript-Exam-1.papert?dl=0&rlkey=zqdjpip3oejs3ewqma48k00hx)|[JavaScript-Exam]()|[JavaScript-Exam]()
 | Week6| 5   |[Intro-To-React-Lesson]()|[Intro-To-React-Lab]()|[Intro-To-React-HW]()
 | Week7| 1    |[React-Props-Lesson]()|[React-Lab]()|[React-HW]() 
 | Week7| 2   |[React-Tailwind-Lesson]()|[React-Tailwind-Lab]()|[React-Tailwind-HW]()
