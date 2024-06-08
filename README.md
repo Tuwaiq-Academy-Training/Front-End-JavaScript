@@ -1,4 +1,4 @@
-![image](https://github.com/Tuwaiq-Academy-Training/Front-End-JavaScript/assets/140402511/82ef8c4d-cd16-4531-ba5d-9dd824dedf46)# Front-End-JavaScript
+# Front-End-JavaScript
 
 Hi Everyone, Welcome to Front-End bootcamp. This repository contains informations, labs, homeworks, projects and lessons specific to your course.
 
