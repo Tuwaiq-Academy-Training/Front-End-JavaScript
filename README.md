@@ -85,7 +85,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week6| 3   |[Presentation]()|[Presentation]()|[Presentation]()
 | Week6| 4   |[JavaScript-Exam](https://www.dropbox.com/scl/fi/nduwhpcxfe80sogea9tvn/JavaScript-Exam-1.papert?dl=0&rlkey=zqdjpip3oejs3ewqma48k00hx)|[JavaScript-Exam]()|[JavaScript-Exam]()
 | Week6| 5   |[Intro-To-React-Lesson](https://github.com/Tuwaiq-Academy-Training/React-Fundamentals-Lesson-ts/blob/main/README.md)|[Intro-To-React-Lab]()|[Intro-To-React-HW]()
-| Week7| 1    |[React-Props-Lesson](https://stone-horn-a78.notion.site/Props-js-Lesson-6c690978fffa4523af972bb483a19c1e)|[React-Lab]()|[React-HW]() 
+| Week7| 1    |[React-Props-Lesson](https://stone-horn-a78.notion.site/Props-js-Lesson-6c690978fffa4523af972bb483a19c1e)|[React-Lab](https://stone-horn-a78.notion.site/React-Props-Lab-6fa6be456b57439fa4d4cec704384341)|[React-HW]() 
 | Week7| 2   |[React-Tailwind-Lesson]()|[React-Tailwind-Lab]()|[React-Tailwind-HW]()
 | Week7| 3   |[React-Routing-Lesson]()|[React-Routing-Lab]()|[React-Routing-HW]()
 | Week7| 4   |[React-Hooks-Lesson]()|[React-Hooks-Lab]()|[React-Hooks-HW]() 
