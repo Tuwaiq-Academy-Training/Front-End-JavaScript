@@ -91,7 +91,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week7| 4   |[React-Hooks-Lesson](https://olivine-wool-1ce.notion.site/React-hooks-with-useState-c2ccdc73af2f4e36981d88a626b57ce6)|[React-Hooks-Lab1](https://olivine-wool-1ce.notion.site/W7-D4-Lab1-3a949f7c537f4c73970edb9273432576?pvs=4)-[Lab2](https://stone-horn-a78.notion.site/W7-D4-Lab-c73b57f21b47454897b38b4c9c473aa3)|[React-Hooks-HW](https://stone-horn-a78.notion.site/W7-D4-Lab3-8d7129985fee430b94d0584c9461ce0b) 
 | Week7| 5   |[React-Project](https://stone-horn-a78.notion.site/React-OneDay-Pro-fbd03a437a364565bb101516a984249d)|[React-Project-Lab]()|[Week-Project](https://stone-horn-a78.notion.site/1Week-Project-b8f045150a3d449d8741e17a1706b5ee) 
 | Week8| 1   |[React-Hooks-Lesson](https://olivine-wool-1ce.notion.site/React-hooks-with-UseEffect-0d5639b6b1944d4382d88cb4c8835eb0?pvs=4)|[React-Hooks-Lab](https://stone-horn-a78.notion.site/W8-D1-Lab-e70e10f7e9654174a202d2cf1c14d8c8)|[React-Hooks-HW]()
-| Week8| 2   |[React-Api-Lesson]()|[React-Api-Lab1](https://stone-horn-a78.notion.site/W8-D2-Lab-7dc4d78105c5446eb5af2833eaf7c9d3)|[React-Api-HW]()
+| Week8| 2   |[React-Api-Lesson](https://olivine-wool-1ce.notion.site/React-API-Lesson-3a8b0e0ec6724bd2b63147a26983f83b?pvs=4)|[React-Api-Lab1](https://stone-horn-a78.notion.site/W8-D2-Lab-7dc4d78105c5446eb5af2833eaf7c9d3)|[React-Api-HW]()
 | Week8| 3   |[React-Mini-Project]()|[React-Mini-Project]()|[React-Mini-Project]()
 | Week8| 4   |[React-Mini-Project]()|[React-Mini-Project]()|[React-Mini-Project]()
 | Week8| 5   |[React-Mini-Project]()|[React-Mini-Project]()|[React-Mini-Project]()
