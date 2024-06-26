@@ -93,7 +93,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week8| 1   |[React-Hooks-Lesson](https://olivine-wool-1ce.notion.site/React-hooks-with-UseEffect-0d5639b6b1944d4382d88cb4c8835eb0?pvs=4)|[React-Hooks-Lab](https://stone-horn-a78.notion.site/W8-D1-Lab-e70e10f7e9654174a202d2cf1c14d8c8)|[React-Hooks-HW]()
 | Week8| 2   |[React-Api-Lesson](https://olivine-wool-1ce.notion.site/React-API-Lesson-3a8b0e0ec6724bd2b63147a26983f83b?pvs=4)|[Lab1](https://stone-horn-a78.notion.site/W8-D2-Lab-7dc4d78105c5446eb5af2833eaf7c9d3)-[Lab2](https://stone-horn-a78.notion.site/W8-D2-Lab2-edb3189f5c1d4050a06f1edb6688db1b?pvs=4)|[React-Api-HW](https://stone-horn-a78.notion.site/W8-D2-HW-a5ce4be49e1e4b6d89c54d58b43a17b5)
 | Week8| 3   |[React-Api-Lesson2]()|[React-Api2-Lab](https://stone-horn-a78.notion.site/W8-D3-Lab-53ebc03bbfaf43d3928250e22db56209?pvs=4)|[React-Api2-HW](https://stone-horn-a78.notion.site/W8-D3-HW-86d8e547d18a4909afef3eb53540b7a0)
-| Week8| 4   |[React-Mini-Project]()|[React-Mini-Project]()|[React-Mini-Project]()
+| Week8| 4   |[React-Mini-Project](https://stone-horn-a78.notion.site/W8-D4-Project-Books-592ad11a3c654c2b89d12794c7937bad)|[React-Mini-Project]()|[React-Mini-Project]()
 | Week8| 5   |[React-Mini-Project]()|[React-Mini-Project]()|[React-Mini-Project]()
 | Week9| 1   |[React-Exam]()|[React-Exam]()|[React-Exam]()
 | Week9| 2   |[Redux-Lesson]()|[Reduces-Lab]()|[Reduces-HW]()
