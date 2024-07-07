@@ -101,7 +101,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week9| 4   |[React-Mini-Project]()|[React-Mini-Project]()|[React-Mini-Project]()
 | Week9| 5   |[React-Mini-Project]()|[React-Mini-Project]()|[React-Mini-Project]()
 | Week10| 1  |[React-Exam](https://stone-horn-a78.notion.site/React-Exam-2a670e9de20e4216a10ef35d1a15a505?pvs=4)|[React-Exam]()|[React-Exam]() 
-| Week10| 2  |[Redux-Lesson]()|[Reduces-Lab]()|[Reduces-HW]() 
+| Week10| 2  |[Redux-Lesson](https://olivine-wool-1ce.notion.site/React-Redux-d30cb5de58f046c180be941fdbcffc58)|[Reduces-Lab]()|[Reduces-HW]() 
 | Week10| 3  |[Redux-Lesson]()|[Reduces-Lab]()|[Reduces-HW]() 
 | Week10| 4  |[Redux-Lesson]()|[Reduces-Lab]()|[Reduces-HW]() 
 | Week10| 5  |[review]()|[review]()|[review]()
