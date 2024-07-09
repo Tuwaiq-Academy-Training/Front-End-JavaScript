@@ -34,7 +34,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Axios, NPM|
 
 ## Unit 4 \(Web Development with Node.js \)
-| Redux  ,JEST|
+| Redux |
 
 
 ## What We Expect From You
